@@ -1,3 +1,18 @@
+<h1> !!! Projekti plaan !!! </h1>
+
+Projekti tiimis on üks inimene.
+Planeeritakse luua veebirakendus, mis minimaalselt näitab otsitud linna temperatuuri, kuidas temperatuur tegelikult tundub, niiskust ja tuule kiirust. Lisaks võib olla ka näidatud kas ilm on pilvine või selge. Info, mida näidatakse on hetkeline, kuid võimalusel võib näidata ka ka ilma tulevatel tundidel.
+
+Programmeerimiskeel, mida kasutatakse on React ning API kust informatsiooni võetakse on openweathermap. 
+
+Tasuta API version ei luba teha järgmiste päevade ilma päringut, seega kasutati ilmaandmeid iga järgneva 3 tunni kotha.
+
+!!! Projekti plaan !!!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
