@@ -7,7 +7,7 @@ Programmeerimiskeel, mida kasutatakse on React ning API kust informatsiooni võe
 
 Tasuta API version ei luba teha järgmiste päevade ilma päringut, seega kasutati ilmaandmeid iga järgneva 3 tunni kotha.
 
-!!! Projekti plaan !!!
+<h1> !!! Projekti plaan !!! </h1>
 
 
 
